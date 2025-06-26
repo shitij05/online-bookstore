@@ -38,7 +38,7 @@
     color: #fff;
     background-color: #007bff;
     border: none;
-    border-radius: 50px;
+    border-radius: 25px; /* Make the button corners fully rounded */
     cursor: pointer;
     transition: all 0.3s ease;
   }
